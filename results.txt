@@ -1,0 +1,4 @@
+ http://www.google.com 200 OK
+ http://www.accenture.com 200 OK
+ http://www.yahoo.com 200 OK
+ http://www.perfecta.io doesn't exist
